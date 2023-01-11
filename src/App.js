@@ -7,6 +7,7 @@ function App() {
       {/* //New comment added */}
       <div>Hi</div>
       <div>Hello</div>
+      <div>Good Night</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
