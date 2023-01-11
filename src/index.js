@@ -10,7 +10,7 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
+// Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam nisi provident porro aperiam dolore dolores consequatur ducimus? Praesentium quos cupiditate repellendus, necessitatibus consequatur sequi, sit placeat doloribus veniam quod autem?
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
